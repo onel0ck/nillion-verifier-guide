@@ -49,6 +49,9 @@ docker run -v $(pwd)/verifier:/var/tmp nillion/verifier:v1.0.1 initialise
 
 Save these credentials and register your verifier at https://verifier.nillion.com/verifier
 
+![Uploading image.png…]()
+
+
 ### 3. Configuration
 
 Create startup script:
