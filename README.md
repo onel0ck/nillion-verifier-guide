@@ -11,7 +11,7 @@ A guide for installing Nillion Verifier on a Linux server alongside other nodes.
 - [Troubleshooting](#troubleshooting)
 
 ## Prerequisites
-- NIL tokens in Keplr wallet (get test tokens from ([Nillion Faucet](https://faucet.testnet.nillion.com/))
+- NIL tokens in Keplr wallet (get test tokens from [Nillion Faucet](https://faucet.testnet.nillion.com/)
 - Docker installed
 - Linux server with root access
 
